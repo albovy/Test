@@ -1,0 +1,11 @@
+# Datos generados por el extractor
+*.xlsx
+*.csv
+*.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
